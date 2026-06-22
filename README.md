@@ -1,29 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-# Madhuchandana Sunkara<br><br>**B.E. in Artificial Intelligence & Data Science**<br>Chaitanya Bharathi Institute of Technology, Hyderabad · CGPA: 9.38 / 10 · Expected 2028<br><br>---<br><br>I design and build end-to-end machine learning systems — spanning data preprocessing pipelines,<br>predictive modeling, NLP inference, and interactive deployment. My work prioritizes clean<br>engineering, interpretable metrics, and real-world applicability.<br><br>---<br><br>### Technical focus<br><br>- **Machine learning:** Supervised learning, regression, classification, feature engineering, model evaluation<br>- **NLP:** Transformer-based models, zero-shot inference (BART/HuggingFace), intent detection<br>- **Time-series:** Demand forecasting, energy consumption prediction, statistical feature engineering<br>- **Deployment:** Streamlit dashboards, data visualization with Power BI and Plotly<br><br>### Core stack<br><br>`Python` `PyTorch` `Scikit-learn` `Transformers` `Pandas` `NumPy` `SQL` `Streamlit` `Power BI` `Git`<br><br>---<br><br>### Selected projects<br><br>| Project | Description | Stack |<br>|---|---|---|<br>| Retail Sales Forecasting | Demand forecasting + EOQ-based inventory optimization | Python, Pandas, NumPy |<br>| AI Finance Decision System | Zero-shot NLP intent detection + real-time multi-currency analytics | PyTorch, Transformers, Plotly |<br>| Energy Consumption Forecasting | End-to-end ML pipeline with RMSE/R² evaluation + Streamlit dashboard | Scikit-learn, Streamlit |<br><br>---<br><br>### Connect<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/madhuchandana-sunkara)<br>[![Email](https://img.shields.io/badge/Email-madhusunkara2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhusunkara2006@gmail.com)<br>📍 Hyderabad, India · Open to ML / Data Science internship opportunities
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Madhuchandana%20Sunkara&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Engineer&descSize=16&descAlignY=62&descColor=d0cfff" width="100%"/>
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/madhuchandana-sunkara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhusunkara2006@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Madhuchandana-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Madhuchandana-ux&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Madhuchandana-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhuchandana-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuchandana-sunkara)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-madhusunkara2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhusunkara2006@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Madhuchandana--ux-181717?style=flat-square&logo=github)](https://github.com/Madhuchandana-ux)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20Hyderabad-India-6C63FF?style=flat-square)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Madhuchandana-ux&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Madhuchandana-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+B.E. in **Artificial Intelligence & Data Science** · Chaitanya Bharathi Institute of Technology · **CGPA 9.38 / 10** · Expected 2028
+
+I build end-to-end machine learning systems — from raw data pipelines to deployed, interactive applications. My work spans **predictive modeling**, **NLP inference**, and **time-series forecasting**, always with a focus on clean engineering and interpretable results.
+
+Currently deepening expertise in transformer-based NLP and seeking **ML / Data Science internship** opportunities.
+
+---
+
+## 🛠 Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Tools & Deployment**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [🛒 Retail Sales Forecasting](https://github.com/Madhuchandana-ux/Retail-sales-forecastory-and-inventory-optimization) | Demand forecasting pipeline + EOQ-based inventory optimization | Python · Pandas · NumPy |
+| [💰 AI Finance Decision System](https://github.com/Madhuchandana-ux/Finance-tracker) | Zero-shot NLP intent detection (BART) + real-time multi-currency analytics | PyTorch · Transformers · Plotly |
+| [⚡ Energy Consumption Forecasting](https://github.com/Madhuchandana-ux/AI-Powered-Energy-Consumption-Forecasting) | End-to-end ML pipeline (RMSE/R²) + interactive Streamlit dashboard | Scikit-learn · Streamlit |
+
+
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhuchandana-ux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuchandana-ux&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Madhuchandana-ux&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+</div>
