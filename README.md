@@ -8,7 +8,6 @@
   <a href="https://github.com/Madhuchandana-ux" target="_blank"><img src="https://img.shields.io/badge/GitHub-Madhuchandana--ux-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/📍%20Hyderabad-India-6C63FF?style=flat-square" alt="Location">
 </div>
-
 ---
 
 ## About me
