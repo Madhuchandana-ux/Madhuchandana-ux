@@ -7,9 +7,7 @@
 <br>
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuchandana-sunkara)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-madhusunkara2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhusunkara2006@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Madhuchandana--ux-181717?style=flat-square&logo=github)](https://github.com/Madhuchandana-ux)
