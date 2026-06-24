@@ -1,14 +1,19 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Madhuchandana%20Sunkara&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Engineer&descSize=16&descAlignY=62&descColor=d0cfff" width="100%"/>
+  
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/madhuchandana-sunkara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:madhusunkara2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-madhusunkara2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Madhuchandana-ux" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Madhuchandana--ux-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍%20Hyderabad-India-6C63FF?style=flat-square" alt="Location"/>
 </div>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/madhuchandana-sunkara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:madhusunkara2006@gmail.com"><img src="https://img.shields.io/badge/Email-madhusunkara2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Madhuchandana-ux" target="_blank"><img src="https://img.shields.io/badge/GitHub-Madhuchandana--ux-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/📍%20Hyderabad-India-6C63FF?style=flat-square" alt="Location">
-</div>
----
 
 ## About me
 
