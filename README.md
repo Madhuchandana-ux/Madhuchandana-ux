@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhuchandana-sunkara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuchandana-sunkara)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-madhusunkara2006@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madhusunkara2006@gmail.com)
 &nbsp;
@@ -22,7 +22,7 @@
 
 ## About me
 
-B.E. in **Artificial Intelligence & Data Science** · Chaitanya Bharathi Institute of Technology · **CGPA 9.38 / 10** · Expected 2028
+B.E. in **Artificial Intelligence & Data Science** · Chaitanya Bharathi Institute of Technology · **CGPA 9.50 / 10** · Expected 2028
 
 I build end-to-end machine learning systems — from raw data pipelines to deployed, interactive applications. My work spans **predictive modeling**, **NLP inference**, and **time-series forecasting**, always with a focus on clean engineering and interpretable results.
 
