@@ -3,7 +3,7 @@
   
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/madhuchandana-sunkara" target="_blank">
+  <a href="www.linkedin.com/in/madhuchandana-sunkara-99a5ba328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Madhuchandana%20Sunkara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:madhusunkara2006@gmail.com">
